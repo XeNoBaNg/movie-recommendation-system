@@ -3,4 +3,3 @@ pandas
 pickle5
 requests
 gdown
-bz2
