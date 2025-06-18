@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# Model files (pickle)
+*.pkl
+*.pickle
+
+# Streamlit config folder
+.streamlit/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints (if you ever use .ipynb)
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
